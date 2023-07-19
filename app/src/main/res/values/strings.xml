@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">count blessings and weeks</string>
+    <string name="app_name">ذکر ایام و صلوات شمار</string>
     <string name="count_blessings">صلوات شمار</string>
-    <string name="count_weeks">ذکرایام هفته</string>
+    <string name="count_weeks">ذکر ایام هفته</string>
     <string name="exit">خروج</string>
+    <string name="text_title">ذکر ایام هفته و صلوات شمار</string>
 </resources>

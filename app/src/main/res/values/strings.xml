@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">count blessings and weeks</string>
+    <string name="count_blessings">صلوات شمار</string>
+    <string name="count_weeks">ذکرایام هفته</string>
+    <string name="exit">خروج</string>
+</resources>

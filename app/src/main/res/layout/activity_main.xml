@@ -23,10 +23,10 @@
     </androidx.appcompat.widget.Toolbar>
 
     <Button
-        android:id="@+id/btn_count_weeks"
+        android:id="@+id/btn_count_days"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:text="@string/count_weeks"
+        android:text="@string/count_days"
         android:textSize="26sp"
         android:textStyle="bold"
         android:layout_gravity="center"

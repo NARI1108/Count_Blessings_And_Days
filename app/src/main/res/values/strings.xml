@@ -4,4 +4,5 @@
     <string name="count_days">ذکر ایام هفته</string>
     <string name="exit">خروج</string>
     <string name="text_title">ذکر ایام هفته و صلوات شمار</string>
+    <string name="zero">0</string>
 </resources>

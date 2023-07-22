@@ -50,4 +50,7 @@
     <li>
          Familiarity with another Java command (Switch command).
     </li>
+    <li>
+         Getting to know AlertDialog training.
+    </li>
 </ul>

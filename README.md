@@ -10,6 +10,6 @@
 <p><strong>You can see a profile of our app below.</strong></p>
 
 
-<p>Read the questions carefully and answer them with focus, don't spend too much time answering each question!</p>
-<p>You have qualities that you may not be aware of.</p>
-<p>This test will tell you whether you are known as a lively, beautiful, entertaining, practical and interesting person, or you are accurate and practical or shy and indecisive!</p>
+<p>In this program, we have used a simple graphic design. This program is only for training for those interested in Android development. Our program has two functions
+1- Remembering the days of the week
+2- The number of blessings!</p>

@@ -47,4 +47,7 @@
     <li>
          Getting to know Calendar and how to use it in the program.
     </li>
+    <li>
+         Familiarity with another Java command (Switch command).
+    </li>
 </ul>

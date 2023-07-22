@@ -39,6 +39,6 @@
          Getting to know the Style file and removing the action bar.
     </li>
     <li>
-        
+         Learning to beautify buttons.
     </li>
 </ul>

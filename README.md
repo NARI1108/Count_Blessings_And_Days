@@ -41,4 +41,7 @@
     <li>
          Learning to beautify buttons.
     </li>
+    <li>
+         Familiarity with Intents and transition between activities.
+    </li>
 </ul>

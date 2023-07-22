@@ -30,3 +30,15 @@
 
 
   <code><strong>The purpose of making this application is to familiarize with the following:</strong></code>
+
+<ul>
+    <li>
+         Getting to know Image Buttons and their features.
+    </li>
+    <li>
+        Getting to know VideoView and using it in the program.
+    </li>
+    <li>
+        Getting to know WebView and using it in the program.
+    </li>
+</ul>

@@ -10,6 +10,7 @@
 <p><strong>You can see a profile of our app below.</strong></p>
 
 
-<p>In this program, we have used a simple graphic design. This program is only for training for those interested in Android development. Our program has two functions
-1- Remembering the days of the week
-2- The number of blessings!</p>
+<p>In this program, we have used a simple graphic design. This program is only for training for those interested in Android development.</p> 
+<p>Our program has two functions!</p>
+<p>1- Remembering the days of the week</p>
+<p>2- The number of blessings</p>

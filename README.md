@@ -44,4 +44,7 @@
     <li>
          Familiarity with Intents and transition between activities.
     </li>
+    <li>
+         Getting to know Calendar and how to use it in the program.
+    </li>
 </ul>

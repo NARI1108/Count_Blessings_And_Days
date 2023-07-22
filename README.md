@@ -36,9 +36,9 @@
          Getting to know Image Buttons and their features.
     </li>
     <li>
-        Getting to know VideoView and using it in the program.
+         Getting to know the Style file and removing the action bar.
     </li>
     <li>
-        Getting to know WebView and using it in the program.
+        
     </li>
 </ul>

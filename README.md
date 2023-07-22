@@ -17,3 +17,6 @@
 
 
 <p><img src="https://sitek.ir/wp-content/uploads/2019/10/screencapture-identity-flickr-sign-up-2019-09-23-14_17_41.png" width="28">You can visit the following site to test your personality.</p>
+
+[Count Blessings and Days](https://myzekr.com/)
+

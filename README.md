@@ -6,7 +6,7 @@
 </h3>
  <h3 align="center">
   
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsKMgxvHYpLmcQGoyo3-_OdvUUBXHMqrkK0A&usqp=CAU" width="900" height="300" >
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsKMgxvHYpLmcQGoyo3-_OdvUUBXHMqrkK0A&usqp=CAU" width="900" height="400" >
 
 </h3>
 

@@ -5,4 +5,11 @@
     <string name="exit">خروج</string>
     <string name="text_title">ذکر ایام هفته و صلوات شمار</string>
     <string name="zero">0</string>
+    <string name="about_us">درباره ما</string>
+    <string name="About_Us">تیم توسعه اندروید Lollipop در واقع است
+            تولید کننده نرم افزار اندروید شرکت آب نبات چوبی است
+            یک شرکت دانش بنیان که توسط کارآموزان اداره می شود.
+            شما می توانید از شرکت ما حمایت کنید و نرم افزار کارآمد را بهبود بخشید.
+            با تشکر از استفاده از محصولات ما
+"</string>
 </resources>

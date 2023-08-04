@@ -12,6 +12,9 @@
 
 ## ✨Count Blessings  And Days Vidoe
 
+[Samsung Galaxy S10 (1440x3040, 560dpi) - 192.168.251.101 - Genymotion 2023-08-04 23-39-02.zip](https://github.com/NARI1108/Count_Blessings_And_Days/files/12264303/Samsung.Galaxy.S10.1440x3040.560dpi.-.192.168.251.101.-.Genymotion.2023-08-04.23-39-02.zip)
+
+
 <p><strong>You can see a profile of our app below.</strong></p>
 
 <p>In this program, we have used a simple graphic design. This program is only for training for those interested in Android development.</p> 

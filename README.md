@@ -34,7 +34,6 @@
   </ul>
 
 
-
   <code><strong>The purpose of making this application is to familiarize with the following:</strong></code>
 
 <ul>
